@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-repositorio
+esto es una prueba para saber como funciona Github
